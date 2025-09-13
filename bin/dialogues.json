@@ -1,0 +1,8 @@
+{
+	"npcname":"shopkeep",
+	"dialogues":[
+		"Hello Adventurer!",
+		"A Nice day to buy something good.",
+		"Have a nice day."
+	]
+}
